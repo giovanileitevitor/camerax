@@ -1,4 +1,4 @@
-# camerax
+# CameraX
 
 CameraX - Pacote incluido dentro do Android JETPack
 
